@@ -1,0 +1,128 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    background-color: rgb(45, 15, 70);
+    width: 1000px;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    font-family: "comic sans MS", "sans-serif";
+}
+h3{
+    font-family: "arial", "verdana", "sans-serif";
+}
+p{
+    font-family: "arial", "verdana", "sans-serif";
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10px;
+}
+#header{
+    background-color: lightgray;
+    height: 60px;
+}
+#name{
+    padding-left: 20px;
+    vertical-align: center;
+    display: inline-block;
+}
+#subtitle{
+    display: inline-block;
+    vertical-align: center;
+    position: relative;
+    left: 470px;
+}
+#avatar{
+    border: solid white 2px;
+    display: inline-block;
+    width: 400px;
+    height: auto;
+    margin: 20px;
+}
+#bio{
+    background-color: lightgray;
+    display: inline-block;
+    width: 530px;
+    height: 266px;
+    vertical-align: top;
+    margin: 20px 20px 20px 0px;
+}
+.label{
+    background-color: lightslategray;
+    padding: 10px 0px 10px 0px;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+}
+.labelname{
+    margin-left: 10px;
+    color: white;
+}
+#contlink{
+    padding: 10px;
+}
+.techs{
+    width: 304px;
+    
+    margin: 0px 0px 0px 20px;
+    display: inline-block;
+    background-color: lightgray;
+    vertical-align: top;
+}
+#alpha{
+    padding-bottom: 81px;
+}
+#beta{
+    padding-bottom: 46px;
+}
+.badge{
+    margin: 0px 0px 20px 20px;
+    width: 304px;
+    background-color: lightgray;
+    display: inline-block;
+}
+.emblem{
+    height: 45px;
+    width: 45px;
+    margin: 5px 0px 5px 10px;
+}
+.button{
+    background-color: green;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: solid black 1px;
+    border-radius: 10px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer{
+    background-color: white;
+    text-align: cetner;
+}
+#cen{
+    text-align: center;
+}
+#thumbs{
+    padding-bottom: 10px;
+    text-align: center;
+}
+.thumb{
+    display: inline;
+    height: 25px;
+    width: auto;
+}
+.end{
+    display: inline;
+    text-decoration: underline;
+    position: relative;
+    right: 10px;
+}
